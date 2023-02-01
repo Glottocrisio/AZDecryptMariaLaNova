@@ -1,0 +1,16 @@
+Score: 15487.19 IOC: 0.1164 Multiplicity: 0.0517 Seconds: 18.66
+Repeats: aaaaa elaie inate eario drte teso trai erle oalt
+PC-cycles: 2811
+
+Spiral(258*2,TP,IN,C:1A)
+Spiral(50*10,UTP,IN,C:3A)
+Snake(40*13)
+
+seniintrelaeaderitaammetearioaellaatillastranceraosatrartiasiinortra
+carinteaiarunrnoaetasonaeidriionlineseedereaamerleiteaaraearioearlel
+idrrearoteterlednitiaiedareautacineminiceuaiosereanicitraiuislaniail
+onterareetrainserineelametiraaeliettealtltreeanoaltiaodrtenrimaeinit
+reoadrtesoiedoalteioraarunantesoaeseoreremaiattaaaaaaretidonrisaiain
+atendointedeneonlatietrelaietaldiatarenrtielealelaiedrtateneersneall
+aereletreiaesoraaldeiloaiseininatesitiedalloseoralaintelioreiatraerl
+etiinam

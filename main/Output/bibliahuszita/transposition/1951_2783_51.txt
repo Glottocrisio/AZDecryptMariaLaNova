@@ -1,0 +1,16 @@
+Score: 1951.49 IOC: 0.2783 Multiplicity: 0.0517 Seconds: 3.30
+Repeats: tettetete etetetett ettetet etetete tetetmt tetette
+PC-cycles: 357
+
+Snake(123*4)
+None
+Period row order(29*17,UTP,P:6)
+
+ntesztetettetttekntttekeskketttstetekmentettkenketttteemeetteetttsee
+attnteeeteteeteketesktakkentoettleneotetetetetttaztteteenetmtsetette
+teteketseenttesztneestentsmtetetmttntteoeneteeeesktnketestnteekotant
+eteknettesteetteketenteekettekekeeettmentetkkttetetmtssntetteeetenes
+eekettatottenenekteesnekttttkektneentettmketttzetetteetntetteteteett
+setmetkettetettekknemtttenetekszeetknteetenmteteeetmteetetetetteemte
+ttetentetetkeestnemteteteketetetemetekettaneteestetetneeneetettkmtee
+ntkzltn

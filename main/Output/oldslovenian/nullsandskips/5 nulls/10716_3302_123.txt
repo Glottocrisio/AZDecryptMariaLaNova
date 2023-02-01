@@ -1,0 +1,11 @@
+Score: 10716.80 IOC: 0.3302 Multiplicity: 0.1235 Seconds: 59.80
+Repeats: aaaaraa aaraaaa aaaaaa aaadaa aaaaa aamaa
+PC-cycles: 78
+
+Period(1) Nulls(14,40,96,140,168)
+
+ovzhazbarvzbolaaadzvaaadaananiaaaaaa
+amjaadaaraaaaplakaznaavnaanjalaaaara
+aiahdajaaaanaavadvaaamviaaanlaaaaada
+aajamenrianalilanaamaalaaaamaaaaraaa
+ainzmaaidaaaaaavrvaaiznjlaaaavaaaa

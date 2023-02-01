@@ -1,0 +1,16 @@
+Score: 68832.49 IOC: 0.0832 Multiplicity: 0.0517 Minutes: 10.44
+Repeats: ettek ekin hjht tevk ehek eeed ete gtl kek teh ucd
+PC-cycles: 551
+
+Split(204*3,H,2,Columnar(TP,C:4),Columnar(UTP,C:2))
+Period from-to(365-401,TP,P:22)
+Period row order(147*4,TP,P:3)
+
+jehemeufhkiheletevkgujebljelfduejjbteucdkeiehekgeedggdudteketbdlucdh
+jrhktkfzehllttedkhtdtevkkmzlkehygkstlkmlhnekinkekltsujkckeknekminden
+ehekingkouetliemfctteeedcteejteghctlfueheigtlgtlatdchetottdmchjhtedd
+eemneenojknsjhebaykttfjotkmyiijmsakaratdtitekhjhtthbvkgyebeolljedele
+hdetkuymdjklcetfmktzetetektehettekimtehfomcetmykkjjkiehtcmedtyjtmzkz
+hkganioknaktettekmueeahkazjhiteedasietkhogykeeiyimekmtkuctgcktoteoeb
+iztdeidgmttkghnkmimlbzenukeltctttcleumkicflzbtgekjetkeeedmelsukimegf
+edjemfg

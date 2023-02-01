@@ -1,0 +1,16 @@
+Score: 25743.12 IOC: 0.0694 Multiplicity: 0.0517 Seconds: 0.17
+Repeats: wrwvn nsuj atxo uwn wnt nsu gnu was auw uwx mhn uiw
+PC-cycles: 648
+
+Snake(69*7)
+Snake(134*4)
+Offset column order(414*2,X:380)
+
+mtxynrrgwvxuzwntrxvrjkwcwntxwrwvnugowvwxgumnatxorexnwzlogugmukunmkox
+vnveoczortnzonyorcxnrwvuqwiwrucnnjsmkumtnsnwfeujwmguwrxgnugjuewvwmst
+snxouyksjunmwgnuxuqlrnxwgvnlygwaswnumvsrxwovuenxtaownsujnosuwxyvotre
+nwasneuwnsocuwngmatxovgwlzohmwauwxwhueuaronsugeiwwiuknsujwagtongmeoe
+ugsuavwewnwuaxwustulnnogoauokuiwsimrtrmvgwhrwrwvnxovamwveoajnxwnztwx
+ulzsuuiwtukfwngeuotrgueimswriuzssrugusuxvmhneunmftihxtnvruynmhretztx
+wnhwwvmwuxjzmauwmhnnrrntuxwamvnoogxjesnuwguwnohmgrnsauwjmnwkuwvwvnwu
+xuwwunt

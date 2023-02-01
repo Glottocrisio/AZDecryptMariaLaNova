@@ -1,0 +1,11 @@
+Score: 19770.66 IOC: 0.4564 Multiplicity: 0.1235 Seconds: 10.10
+Repeats: eeeeoeeeee eeeeeeeee eeeTeeeee eeeeeeee oeeeeree
+PC-cycles: 59
+
+Period(1) Nulls(2,39,45,97,136)
+
+tcpecmesncmtcoeeeTcneeeTeeeeeieeeeee
+eeeeTeseeeeloeeeceeeneeeeeeoeeeeesee
+iepTeeeeeeeeeneTneeernieeeeoeeeeeTee
+eeerwesieeeoioeeeereeoeeeereeeeseeee
+iecreeiTeeeeeensneeeiceeoeeeeneeee

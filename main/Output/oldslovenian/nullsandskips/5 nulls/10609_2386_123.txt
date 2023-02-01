@@ -1,0 +1,11 @@
+Score: 10609.98 IOC: 0.2386 Multiplicity: 0.1235 Seconds: 54.94
+Repeats: eaaaa araaa aaaa (3) alas vala inan raaa nana
+PC-cycles: 96
+
+Period(1) Nulls(14,40,96,140,168)
+
+bejcajbarejbbiaaaljesaalasaaaavannan
+adatalasraaanfiaonjaaneaaaatainansar
+aaaaclataasnaaaealevnadeaaaaaivnnval
+aaatndzaraaasiaiaaaadaninanannaarava
+aaajdavalavnavseresaajatiaaanenasv

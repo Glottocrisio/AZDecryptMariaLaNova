@@ -1,0 +1,16 @@
+Score: 594385.69 IOC: 0.1147 Multiplicity: 0.0517 Seconds: 2.82
+Repeats: eeelke etssee teele eeee elof eelt zeee eesk eree
+PC-cycles: 1973
+
+L-route(399*2,TP,C:4)
+Columnar(249*2,UTP,C:3)
+Period(TP,P:424)
+
+emnehleegeeoyzhmygmgggwlyneptmbmnsgmeesteetetsseebnzyullayneeslyesee
+pllkanleyhtlvenlknyfeloflelnevemlzlelfelkofstfgyeloftlreekalayltdfor
+lfdlcgubcdehsleeoeewgmlryemlykeheoomkvcgloyhbopkletlhkbrneeeseekmnew
+laeeleeelkewkeklmleeksheelezetzlereereboaeseostkeeltyflkoknbaefelene
+zeeezneeklozwnabetelmeelteeskenvelokgtwesmekwtenoekwzeeegtszeegmegty
+zenweeygotentendeszygereeskzymyetsseekfggfrmlfvmygeeeeelkeegcyldamyo
+eegscvogelyrthlensylszkegyeerelozemykeyoteeleenewembezloylgsteeleses
+myewene

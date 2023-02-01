@@ -1,0 +1,16 @@
+Score: 258459.55 IOC: 0.0861 Multiplicity: 0.0517 Seconds: 2.26
+Repeats: tuneko geegkb eneki sram enek (2) ekm rke ena nek
+PC-cycles: 678
+
+None
+Split(379*2,H,1,Columnar(TP,C:4),Reverse)
+Spiral(424*2,TP,OUT,C:2B)
+
+eakbkenoikuatokigveetekneijrosunlvtatvgeegkbukmsounndkaekergkkezdkre
+aznernjmuilevmlurnletetteolvmerkanttnntvekmvzjrkevankeekrkenlelekben
+vjekmentovtunekorkekokteezkglvtniknvkagtranlfkynvttiazarenteelvarynf
+toelrkzenatrltjbeeenarefelnkoutvenekfegexklefnretsynsznatszesilnlrsb
+vnkbkvokoudzenritsramnvkoreleszdeolsramvonekesenekinemenitaulyrekeun
+jkenesmarniklsertelvkneemeoydnlikterekmnjevbkvanenekikjevoketronkojk
+ieleveaenrukybejknveonkrkxdtnreokmtunekoigeegkbnekjemoaunoviuikoekml
+eienekm

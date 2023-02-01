@@ -1,0 +1,16 @@
+Score: 26380.28 IOC: 0.0680 Multiplicity: 0.0517 Seconds: 7.44
+Repeats: kltp atag adg dat lgd bda kad (2) agr nix dki wlg
+PC-cycles: 515
+
+Mirror(212*3)
+Offset row order(135*4,Y:1)
+Period from-to(337-428,UTP,P:2)
+
+naerdgigluaxuingkadbaviiwaraiatradgoqurwgikadnugdxadsdsgdataddagluda
+tnvukaduqgtdqaesgcyrdkidgausiwtdpsaegtlkpdgiangoiadtysolwegdkigeadgi
+poadgrukltpsrdcvpdsdtraugkltpwetgdvcoraruaxaguxptsgsepovpwlgvpgypwot
+gzdsahdbdzaogduqoragsdzdtlgdodxnwstwlgdvatsdrwzgytlusddqgdtlvlewqugy
+azsgltqblrugaegqusgwwglatdkusrdqwdwdsgtoskudseokngtdgvldtacviaabdarg
+eowabiwainroswwbdaokrgclatagesareerordagadlxdralreuddgetpguluibxapog
+aidkdddkiaouglknixbdberaigowkardtgwchatagrduganixyaotgiliudsdeanragr
+twdarud

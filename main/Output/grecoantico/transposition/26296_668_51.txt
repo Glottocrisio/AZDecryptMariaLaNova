@@ -1,0 +1,16 @@
+Score: 26296.19 IOC: 0.0668 Multiplicity: 0.0517 Seconds: 1.40
+Repeats: ljbt pgfr fwp wfb wpj cap epf lfw jbw wlg wap whw
+PC-cycles: 488
+
+Spiral(270*2,UTP,OUT,C:3B)
+Snake(128*4)
+Flip(472*2)
+
+cbpwsniefeufbefwpiyuehpglfwrupwxfwawapwfbfwwfpjuwfbrsulfwuypphhpjfbw
+luaewyhwhwapbialuwacilrpbwpsjwbfnsgffzwjfxqwpecfijhefczugwhwcfrwuefw
+hbepferfcwawugjgpbifvxgrfpuwepfbfmnhpbweflhipgfeczwwzfxpgfrwlejipeuc
+icfegflawcwpwflbwfgjfnppietlfixfzwgzuhjhuapitebrcgpfqwpgpjufxugrplfa
+uypcfpuqjzybjpamfvpuyhcjsjbwpywwaujbvpmhewabfswpjhbahrxwdwpjbwmwapfe
+iyuwpdfmwzwmfawmpbdhtvptspjhtsdtcapabtxupfxfbwyfcapnvewlgwpfuaghbwta
+fcpbjltwpgfrpigfwbvaijhcpwlgpcfwpgtdfwpeuljbtaewnstwawbefupljbthwzfs
+gghfefg

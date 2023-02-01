@@ -1,0 +1,12 @@
+Score: 12687.51 IOC: 0.2529 Multiplicity: 0.1202 Seconds: 0.20
+Repeats: naaateaaa aaraaaa aaaavaa aaava apaaa aaaai aaako
+PC-cycles: 24
+
+Polyalphabetism: 28.96%
+
+zrmdqmgxiwmgzmeaaampraaaavaaaavrzapa
+aatdoaaaaainaaateaaamrgapaaakopevaaa
+aihuladajotoaaaarnaaraaaajknaaateaaa
+ajaaakobokaslaaatleaaamaaaehaaaavaal
+iskaalaascujaaavabarirakalmareskaara
+aaa

@@ -1,0 +1,11 @@
+Score: 18305.74 IOC: 0.1055 Multiplicity: 0.1235 Minutes: 2.91
+Repeats: iarr aeca itie ecer cer (2) ate rin eca ten asa iai
+PC-cycles: 499
+
+Period(1) Nulls(100,103,113,116,140)
+
+aaustulsaulaudatacuartecerneneraiiti
+ectmarcerstativdeziuneiantenmediaira
+sateescametrinteaecarinecatandriirec
+temiconsetnrdedenaecaiditieiieasertt
+enucereceriarrasarateunmdateiaiarr

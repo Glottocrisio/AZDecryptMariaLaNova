@@ -1,0 +1,16 @@
+Score: 15067.10 IOC: 0.1244 Multiplicity: 0.0517 Seconds: 12.20
+Repeats: einne ereil neala ealal ntro eite adel arti eesa
+PC-cycles: 3688
+
+Period from-to(283-358,TP,P:35)
+Reverse
+Offset row order(99*5,Y:2)
+
+irtnoainedionearoloteliannileainoreailentrollasioalarleeintroelriais
+oleleeteietorlillorioetiioiooerripalecasaperiaedoleilapartiaratdelre
+tiaierlalepiortelaadiartitledeioeplitrdstreielidelseinneelenerleaiod
+eleinneadeiatealaliaereaaeiteaerdieneaediieeiteranelladeaealirolneal
+londiraiitaresineesatetrailleotelelsenaonetaleendloleesaeonlistereil
+lelllltanealailroietensteooienanaaanneoeildissenioenelariescereilaei
+edntoeorintnealaledleilreaeleadelrainiteetendinearadellisolannaieeln
+eraolel

@@ -1,0 +1,11 @@
+Score: 10754.27 IOC: 0.3359 Multiplicity: 0.1235 Minutes: 1.13
+Repeats: aaaaraa aaraaaa aaaaaa aaadaa aaaaa aamaa naava
+PC-cycles: 74
+
+Period(1) Nulls(14,40,96,140,168)
+
+ovzhazbarvzbolaaadzvaaadaananiaaaaaa
+amjaadaaraaaaplakaznaavaanjalaaaaara
+aiahdajaaaanaavadvaaamviaaanlaaaaada
+aajamonrianalilanaamaalaaaamaaaaraaa
+ainzmaaidaaaaaavrvaaiznjlaaaavaaaa

@@ -1,0 +1,16 @@
+Score: 14641.01 IOC: 0.1245 Multiplicity: 0.0517 Seconds: 0.41
+Repeats: dineen teinr teiea aerei ratan tiera reste lera
+PC-cycles: 4779
+
+Offset(X:132)
+Snake(54*9)
+Spiral(407*2,UTP,OUT,C:3A)
+
+arrleteneerioresteariatterealletratanotreilaereiarenerasaareteiearni
+ereanatriceteinrneodioareremaineotiesttrierdineenatierasnitetrslgiti
+rteorinedeiatreaeoereaintinentaartoaaaiteinreaereinteieailrrataniadi
+neenosasorrarnoeraannrterlaetilleiineaidmertaiaastianoeeseireanttaat
+rresescetronetiarssrrcoeinolntieoarieeitierrereideroalaascoreierratc
+namoriarcornileesitieittieracotsrenienterceeroaterestertilerastrsnde
+lerateeerritacoerlieenegiornatasatrellatitoidirodatrrraallasarlareas
+ltreeri

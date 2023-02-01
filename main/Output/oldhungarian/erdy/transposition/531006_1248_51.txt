@@ -1,0 +1,16 @@
+Score: 531006.45 IOC: 0.1248 Multiplicity: 0.0517 Seconds: 0.83
+Repeats: kelene eanee ehlk stye ekel elte leee eeme zkwe
+PC-cycles: 994
+
+Period from-to(268-411,TP,P:112)
+None
+Offset column order(163*3,X:17)
+
+emyelevokelenekelameeneemerhetreafedemesnrbrtleellamrtdefsylateblers
+taswzlvlertlflaeeynemleveflhliealfetvsodeobersobvonaeatozmeezemyeyng
+bletnsotreemeytlalobglyaotrsrsmaenoytwnkeelsensrnadtleknewekeloerten
+eaoltskameelkelydgeaneeltleeewkmzemrekelenewlmyelstyeeywenlalmkrketn
+edzkweemlyeetistyenkyhleeelynynnyeaneetergeyeenzehlkhmekeyeskkbehlkm
+hneysrnenyelezerlheekbgetlrbeltewennalmeantealslseegeleseenlhzkwerem
+nekelllelkeenolyamelteresseeemleembwtelmreelletelealalezlemwleekesym
+eneleyt

@@ -1,0 +1,16 @@
+Score: 14247.19 IOC: 0.1222 Multiplicity: 0.0517 Seconds: 0.42
+Repeats: ioneil rieta (2) olore iarre einta tati leal liar
+PC-cycles: 5701
+
+Flip(434*2)
+Offset row order(318*2,Y:1)
+Period(UTP,P:434)
+
+rcleiaaerloialeaereaiileorraalittnainiinranteearoaateisreliooilellte
+ttrietaailariarresnittaileaioaiatleintaoinaarnealioneiletritsiersile
+siaiadilserilaoeaaeedeiarentlsedetaeenondloesdaleedatonoliediiseolle
+dalislanieaieoeaiialaiesisiatieetiarrealedieiallaralaarrnanoalsattim
+ieolidisealideiemadinicasidelmaoleoneoaonmotsesloteeataelalienieltao
+loreeallisioneilsoloreleiamoreiaterrietaoislliarietareioroletasoilar
+seaeirrilleestadiliaretretaeoereintatielaiallealtatisierorelialtrtae
+eileala

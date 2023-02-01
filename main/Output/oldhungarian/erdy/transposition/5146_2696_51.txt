@@ -1,0 +1,16 @@
+Score: 5146.29 IOC: 0.2696 Multiplicity: 0.0517 Seconds: 18.13
+Repeats: nelteen elentee netele eerete eeneel (2) leenee
+PC-cycles: 4817
+
+Period row order(43*12,UTP,P:2)
+L-route(397*2,UTP,C:3)
+Snake(319*2)
+
+letteeeeetzeeelnteteeneeestentlmeeteeseezentneeezetsneleneemeneltnee
+enteweentelelenteeseenelteennyenekereyewneeketenneyelenewezsmnlmenes
+elnelteeneketmntleesenezeenenneeleeeeneeeelsseeleesteereeezzenteeeem
+teeretemeenteslteenneneetlesetnzereeretetnemletelnmekelenteenestleel
+ekeenneetelteneentmleeneenleleentesnetelelemelneeeneelleeteeennetele
+ezeretrememesnelnsleeneelnelnnememketneleleenmmnnkeeeltetemttsernnek
+neenezerklennyeenekmeeselenkeeneelenymtelwmeenesnemesweennnlezenezee
+teteese

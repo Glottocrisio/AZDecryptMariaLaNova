@@ -1,0 +1,11 @@
+Score: 10513.65 IOC: 0.2901 Multiplicity: 0.1235 Seconds: 52.22
+Repeats: alaaaa aaaaa aavaa aamaa laaaa kaaka akaa aaan abaa
+PC-cycles: 88
+
+Period(1) Nulls(14,40,96,140,168)
+
+ereuaezabrezelaaameaaamaananikaaaaaa
+vsaamaabaaaaclataenaarnaansalaaaaaba
+aiaumasaaaanaaramrkaavriaaanlkaakama
+aasavanbianalilanaavaalaaaavaaaabaka
+ainevakimakaakarbraaienslaaaaraaak

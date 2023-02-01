@@ -1,0 +1,16 @@
+Score: 5123.12 IOC: 0.2844 Multiplicity: 0.0517 Seconds: 6.75
+Repeats: ettelene teteelk eleeele lleteee etetet eteeen
+PC-cycles: 717
+
+Spiral(218*3,UTP,IN,C:3B)
+Spiral(59*9,UTP,OUT,C:4B)
+Period from-to(81-197,TP,P:91)
+
+ktktwlekereellyenekleenewletteelteneteeeelettelenekeeeeeleeelelwneee
+seeneseeeteleerleleleeeyesrlekeeynteeeertetekeetteessegenyetezenkeed
+eswetnekeelentetezegnketeeleenklkteteeewnekyetleeereetetwleelleegezt
+eknlleteeeeeteenekyeeneteleeelettreereseleweltkeetetetetlelteteelket
+neelyeteteeseeesyntettydlyekelyegyednezetekerezedeeeeyeseeteteeeneee
+eekseekeleesteweeteeenteetweteteelklenellyeeleweeleengteketeelleteee
+lydeeetelknytteylyetenteenelteeeelletgyetteleneelewlerellleetelentee
+eeletee

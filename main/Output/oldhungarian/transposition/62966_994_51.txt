@@ -1,0 +1,16 @@
+Score: 62966.81 IOC: 0.0994 Multiplicity: 0.0517 Seconds: 4.23
+Repeats: lfede enek (2) mjtu seet etek etge etee ekle gebl
+PC-cycles: 9468
+
+Offset row order(252*2,Y:1)
+Snake(82*6)
+Offset column order(287*2,X:269)
+
+lenekmesgeninbglijgmeyeslfedeedngeslizmegetlzatetelgebleysfheitlfede
+sdbzjzbkliugtynsleezesbdnegzjienglecfejedeesoaetejoletlyminkebmkitlk
+ezezvegkbmljtvdjcblenlvbkdeosszegesetgeelivbgzlsmeeyblefeekekleeteee
+eljbeetyobmeebvllzzljeteknehlbvznjojtelveekbjthlnzgekteoeljztkzyfiem
+ugillaejseetmeerenedetekenltrzuhluoljzseyliseethkijznlemslneelsureel
+gbmjtukgeaoueketgeblmjtuzntleoaigegbefelbfutklknurouleumjtlnekuetzsk
+belesmeghalkneveteemlysbfebjlslecneyebgeeztglegyenekebsjsereljtenekl
+egivbel

@@ -1,0 +1,12 @@
+Score: 13928.19 IOC: 0.2442 Multiplicity: 0.1202 Seconds: 15.96
+Repeats: aaateaaaa naaraaaa oaaaai praaaa aaaav aaaac oaaaa
+PC-cycles: 23
+
+Polyalphabetism: 25.68%
+
+taeljesarjestuzaaateaaaateaaaavzoaaa
+akiljavnaaraaaakojesegapraaaajdoaaaa
+crkavalepraaaaclaaateaaamihvaaaaonaa
+vabaaayqwuprvaaaotoaaaaicboaaaaigasf
+ranaavamiznatanaenaaraaaavecjoaaaava
+aaa

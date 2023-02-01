@@ -1,0 +1,16 @@
+Score: 26861.05 IOC: 0.0670 Multiplicity: 0.0517 Seconds: 24.66
+Repeats: vudb qjpc mqp pmy (2) upq mrp qmd imp pqm duq pie
+PC-cycles: 509
+
+Snake(107*5)
+Snake(114*5)
+Flip(308*2)
+
+uqipbsemrpiljqqjpcmrpoqbidemiylelpdsyfmeviuolrmpqsqryjlpisdeplimqocp
+dqjppratpuqdamqumobelfqybfeumfqsqsnqifybqupdmssmmnyqjparrspiprpuipqm
+enyismrbpqoypbyaoupqydmpqqpupqmfqfqpcqmmoprmqvbdumlpfvqusrfypmqrbqig
+tmflpnquqpqubpqmqlqfbprisyjrqjpcepbviemmtpdrpbmorycpydmrmqolpoqyipqs
+uimpioplqfqyrdrmuepgcropmyqimpupktsmypcpmycfynmlpmyodjnudmfwpgmynsld
+aduqmnqqfydugmwsiqfupaqmdsufsocqxqmduqwqfmpienyqmxpwqjqkpfqwmuxsvgmv
+amdsvaxvlfmfuvipietaqmulsvudbmypiuqfqvatqifvudbyimqpxvrmqplmrbqmlsde
+fguqpre

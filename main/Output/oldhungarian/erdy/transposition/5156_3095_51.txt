@@ -1,0 +1,16 @@
+Score: 5156.36 IOC: 0.3095 Multiplicity: 0.0517 Seconds: 40.61
+Repeats: eneeneele eneelkeee yeeeneeee eneelnek eelelee
+PC-cycles: 3815
+
+Period row order(109*5,UTP,P:3)
+Offset(X:286)
+Offset column order(246*2,X:138)
+
+lnelyeeeneeeeenkeeezeyeneelnekedetnkelelteneelereerezneeyelleenleeee
+eleelneeeneelkeeeeeennetneenemertkennweenetteesekenteeneekenwtlenkes
+eneeneelekneeneekteneeneeleleenneetekeelnyeeeneeeekeenneneezeneyeele
+ntleteneelkeeeleteeserezeeenenemeeyeeleetkeeereeeseekeesneknyleeneel
+neknnetettelnelekeenttnnteeelesykeenezeeleleesenketekelneelkeneeseel
+nekelelneemeeneeeneleneteenekeeeenyetkntyzemenekewenneleteenmewerede
+newnkmteenesnetesmeennnkezeneleleezereeretetenneelkyeeneeteeereeltee
+eelnemz

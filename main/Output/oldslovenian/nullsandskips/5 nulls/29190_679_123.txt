@@ -1,0 +1,11 @@
+Score: 29190.54 IOC: 0.0679 Multiplicity: 0.1235 Minutes: 2.63
+Repeats: tgtsb tec xsc std ts so (2) ph dp tr ot zs es gw sx
+PC-cycles: 178
+
+Period(1) Nulls(64,119,149,162,166)
+
+adpkgphgidphapqlglxpdcgsxscrsrwolttg
+tsbgzecxscigegtfqsytprstdrgrzsqtltce
+iegwskxezsgctrgsdsxdotrsbdwglsrqotto
+sxgesztbmiwgrcqwqsresltqtgtsbttseiso
+ggwrpbsowxsotecdiclgwprzqegstdteco

@@ -1,0 +1,16 @@
+Score: 5096.68 IOC: 0.2579 Multiplicity: 0.0517 Seconds: 1.62
+Repeats: neelele eerete elemee eselen meente lewene ekleen
+PC-cycles: 863
+
+Spiral(231*3,TP,IN,C:3A)
+Spiral(324*2,UTP,IN,C:1A)
+Offset column order(199*3,X:116)
+
+eleyewnemtnweenteseenlemykelleeneelekleenmykeewkneneeleleerenereklnl
+wesneeynneneeeskneeleleteeesneeselenleeekyneserentyteeleweelenlkeeel
+eeeewzentnyeeretenmeekesewlneelemteneeltekeelewnkymeenteeneteekewelt
+emleweneemkeetyeennelemeeretetteeyeeleneeelnykstyzenewnselstentteele
+tekleeneselentmeeeenereelelneekeeeenyeeekenelkeynenekleleenekyeleesn
+ekynywekeeerteeneelnekeleenkelemeentelwteeternteeemlyenlewenemeeesnn
+eenyekemelleseeeelnkelmeelwemenkennyekeenteeteyerzenlweeyelewteteeee
+ntwekle

@@ -1,0 +1,16 @@
+Score: 1873.16 IOC: 0.2501 Multiplicity: 0.0517 Seconds: 1.28
+Repeats: eeteket etette (2) tetete tetese nektet ettene
+PC-cycles: 4576
+
+Flip(159*4)
+L-route(64*8,TP,C:2)
+Period row order(43*12,UTP,P:5)
+
+ntnettetttetteteseketkenekentttekeleekeeelettktmentkeetnnsteteereert
+etetveneesteteseteeeltnektetnnttetetettseentsetreertnentltseekentete
+tmeeteteltetetertteenklnveemetekeaelknektetleeknelttteeneeoetleteeke
+tntvetettetkveetteneettesetetmtaeremtleatkmneotektenekmeeltlkeeeetek
+etvetetenkettevrntetetteetktetleleteettekeeetnleeetettenetettkereket
+latotteneekekevetnetnetestetektetetnketeenesloketestvttesteeeltekota
+neelktketktveleteeetkstoeevttteeteeteketeertteketkeektektvnseletnlsk
+tlenene

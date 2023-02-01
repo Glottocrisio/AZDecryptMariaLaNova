@@ -1,0 +1,16 @@
+Score: 1854.01 IOC: 0.2505 Multiplicity: 0.0517 Seconds: 1.27
+Repeats: eeeettet ketkette etteetet ketteet eeettet ekettet
+PC-cycles: 1261
+
+Mirror(332*2)
+Snake(340*2)
+Split(351*2,H,1,Diagonal(UTP,C:2B),Columnar(TP,C:1))
+
+kentteteeeekstnttmeneeteketttktekeeteknkkttnntktreetleottokteetneket
+tetembeeetttkterelvenetenektetkertetteetetktrekettetnkelkertketeteek
+etmvttkettekeeeetseektenkstteertneetevennekttketketteszetttkknesettm
+estetetektknesekettemntetkeletklseetekszesentestvsezettteebtottezttk
+entetetttenttztlreeeentteeeettettvenkettettenenkeektvetetneeonektekt
+ekeoeeeeeetteteketrkttletetetteeettetnkteerekketketteetneetkketteete
+tetenekkteknkrtettenteemeeeeotneletttkennetekoketetetekretsntekeneko
+etoelne

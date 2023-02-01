@@ -1,0 +1,16 @@
+Score: 65323.36 IOC: 0.1034 Multiplicity: 0.0517 Minutes: 1.49
+Repeats: szegen egyen jeree rzgp zege (2) etvn erje ekne
+PC-cycles: 10252
+
+Period from-to(290-403,TP,P:95)
+Period from-to(460-469,UTP,P:9)
+L-route(217*3,TP,C:3)
+
+gnreegeietvnsfyerjenekvjogepvetngzrpenjegnmjeegfvmzotnerjnteenjpkeen
+ykrzgpvyesapevegyeknrzgpotgneasmyeykelenklpgvnvtpkapoznapnfpokgnteve
+zedeteknekimyenvetegznekelgovgozneaegveyotnfgzkveeinegzaztoiknfetvnz
+gidzlknetnikvjeggakreekinnoonzegerkvyeioeoevngnejereeerjemknzrgjlmvr
+kevtmrgngenazegesajeedezellenytemzoyetdkjeoeenjtggypmnvkozokdjedelme
+rpymnszegentveyttymyeenedeedtyejnmoreyegnoszegenyeknegjlfemgnjzjkeve
+tegyenygoeeykegetlenjnzkelkedeajjoeyejegyenmikyonjereegkneleevevneeg
+eeeenzk

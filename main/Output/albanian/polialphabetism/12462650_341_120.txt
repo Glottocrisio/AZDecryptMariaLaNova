@@ -1,0 +1,12 @@
+Score: 12462650.72 IOC: 0.0341 Multiplicity: 0.1202 Seconds: 0.76
+Repeats: heo oo sb (2) tc qg br sx eo ft wl an lg tq im
+PC-cycles: 48
+
+Vigenère keyword (by columns): odsxcp
+
+nujcwtxgimzonifbwltikfwotqysbhianxcm
+oqahybafofjmlgskuovdjsbphjrvtveesbci
+lvqheonfqebmadzhbsefktcheokawlejftcp
+dquhooodantzigzfufzqzybrydfxwpeosxbb
+rqghwfmiavrftqgxowauimvlsxjsyklgoxdp
+lpg

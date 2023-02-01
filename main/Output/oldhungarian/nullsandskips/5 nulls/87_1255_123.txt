@@ -1,0 +1,11 @@
+Score: 87.60 IOC: 0.1255 Multiplicity: 0.1235 Minutes: 25.34
+Repeats: imagg igigo ggai gimi gti vga agg ieg grg gai gim
+PC-cycles: 1505
+
+Period(1) Nulls(67,97,125,146,158)
+
+smiygilgimilsitsgsvimaggvgaaganesiig
+igoguravgaigrgiftgtiiagimaggaugtisia
+rirgngyvruggaiaggmgvmeiaomngsgateiie
+gvgrguiowaingaantgargositigigoiigrie
+ggaiogenveireamimasgniautrggimirae

@@ -1,0 +1,12 @@
+Score: 12809565.97 IOC: 0.0341 Multiplicity: 0.1202 Seconds: 1.67
+Repeats: ciw kmo hn km on us rg (2) qo zw bd oq tu mq zm yk 
+PC-cycles: 100
+
+Vigenère keyword (by columns): odpxcp
+
+lltlbtoqrgzvlizwbdyiurbcykkusjogdono
+pkavehzmcrgomqxpjciwtusxjyonifqvxwnk
+mohvccbmhasozwjvsuqmuhnjqouxbdqyzhnx
+sklvtciwafiroqjrjprkjssatwzobxqoxosh
+kkmvbpgianwpykmotmzlrgudedtuezmqcofx
+mem

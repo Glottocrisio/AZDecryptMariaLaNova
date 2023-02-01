@@ -1,0 +1,16 @@
+Score: 4843.50 IOC: 0.2740 Multiplicity: 0.0517 Seconds: 0.40
+Repeats: eelteels tettelee eenteel teleene etestee keetel
+PC-cycles: 5773
+
+Period row order(128*4,UTP,P:3)
+Period from-to(312-416,UTP,P:22)
+None
+
+kezteeteesnztstkgeytezeesrstetzeekestytgenekteretsetkeelemetstegekte
+nezeetmegenenekegttmeeytertseermeektkteleteleenenewretteeetsetesrtet
+teleekeelkettkeeeezenkeletesteettzeeelereteeesteeeeteetkekeeleteeeel
+ltenezeteenteleneellrenlteentekeerwenketslenteemelteeetlleteesekytee
+leteelteelstteekeetelkeetellenywtkeezeteeyeteelenleltetteleeneeelttn
+eeeeeelnenneeneleeteeseenlteteklkeletenteeewleeleetesteeelteeteletnn
+eeesneleelteelsewtteneleelenelneeseekteenteelteeeeleneeneseeenteeles
+eneelrw

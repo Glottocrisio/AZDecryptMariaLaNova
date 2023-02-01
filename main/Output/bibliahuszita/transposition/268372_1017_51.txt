@@ -1,0 +1,16 @@
+Score: 268372.35 IOC: 0.1017 Multiplicity: 0.0517 Seconds: 3.60
+Repeats: teke kmli tber eket etek (2) enke eken smlv eten
+PC-cycles: 9726
+
+Reverse
+Snake(52*10)
+Snake(103*5)
+
+ketsceeooemeltksantcototaelnakstadnkzelteymtlegykeeyzletsmeetteletea
+tatertesztekkeonscnetenlekeneokkyebsbtmerttendenmonedbsktoteekdzlnin
+easomosbktbernekinnenekonekendbttberekeztknmnensdndenkekatdtetekltek
+merskzeketltcedaegvntkkteesakoltiaedelmkitekezenketekettdeztsnetolne
+enzedtatskmkelnevrkzeestneeleugoeltegesmlvanmodetkkedetekihetenskmli
+antgyitatlnesekmliodletyenncsteheftbtueatfelhoiveiyemoiyhidaealirsee
+resnemlcbmtseedecsaafevescodmymltecttasmlvefontaleytemolaozrthtemltf
+taegnne

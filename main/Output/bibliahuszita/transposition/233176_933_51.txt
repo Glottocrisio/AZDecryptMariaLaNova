@@ -1,0 +1,16 @@
+Score: 233176.93 IOC: 0.0933 Multiplicity: 0.0517 Seconds: 0.50
+Repeats: oetne gntbe eteke beeb kosz eten etne eles ete (2)
+PC-cycles: 1213
+
+Snake(199*3)
+Columnar(232*3,TP,C:1)
+Diagonal(363*2,UTP,C:6)
+
+vtekneyiterneleltensneentoiensyaikneigttvvtonsekilmegveveltsjlkieeke
+muxtlengesenktyeirniotetekenyeimnevsmtnmyneeleieoetnsrjnntuirrezysnl
+ttileemztdnasznvmoxtvatzsteumznvkdvsjttheenlmnembeebeebhnnrdtteeniyg
+ejkmmnotjltemhieesjoetnemdeenrkylvelesevtoetnekasnesnleeomnvxhtttujs
+moziklnejergntbeeseobaioveovvgiiltbtunjnazhemlestvyonesmegntbenoneks
+vimetneneietbtjeggniimlmvojnemtekrnoebnneaxnseoatestykjeletnilevsezl
+netsokzetenytjenesuljoveteketenetezdnetmikoszlmexazelesmnitkoszveste
+axjmnmi

@@ -1,0 +1,16 @@
+Score: 67009.85 IOC: 0.0684 Multiplicity: 0.0517 Minutes: 5.54
+Repeats: atmeg aatm eafz etet azeg iej eec agu utj eta aze
+PC-cycles: 715
+
+Skytale(TP,P:479)
+Spiral(400*2,TP,IN,C:3A)
+Offset(X:29)
+
+aovkaaukhagyjezaujoevdeazegyioeyitneketetypgvtlgaaaelepiiryaikeaneec
+tyvtakatteziaeafzgiaeeciennemctjnkenohujltaetrcryutiltrturkntrevonge
+rtrgtatmegitekukagufttsuvgpeekkyeyeedklaojkgopoybagutzjjjojuomvunaaj
+aatmegoemtptnonmitacozaatmhpjuntcjrekduuiacjvagyanulgvyajakjavinazek
+zjnlgiedaoeafznievavgtrfgntutaynkfpcaavalamieoiietetateolkegptimjtyu
+anzjauftzeieaahtnhtffecynejdriejgkutkviejueacatnvaouilundeetlegezlop
+evtnutjkylataklkouazegaetaabtftuyngiuenttaltttybuzinaauoutjanakazszo
+rorjiek

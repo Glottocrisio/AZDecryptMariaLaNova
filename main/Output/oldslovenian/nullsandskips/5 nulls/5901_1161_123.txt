@@ -1,0 +1,11 @@
+Score: 5901.50 IOC: 0.1161 Multiplicity: 0.1235 Minutes: 14.78
+Repeats: ataem ises nite tea ste (2) sve eti sem ise lez ets
+PC-cycles: 428
+
+Period(1) Nulls(9,43,77,167,174)
+
+rnamtaktenakrajitizanitezeiseseliaat
+aemtvszeietstaljedaaseanstesvejaiais
+estemzsvetiasteneznlasemnetiesjlaale
+ztsevamisetsijejessemiajataemaaeseel
+ttesamelezelaslineniteasvsteanasil

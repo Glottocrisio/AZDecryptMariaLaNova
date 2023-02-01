@@ -1,0 +1,11 @@
+Score: 16956.12 IOC: 0.1077 Multiplicity: 0.1235 Minutes: 9.17
+Repeats: iaal esi (2) est rea tti iaa ati nte tie rit eal ion
+PC-cycles: 695
+
+Period(1) Nulls(60,123,137,138,162)
+
+plottomtllomportttrolatereanenistiit
+iestdaarealtatiprezionelntenderitiaa
+latietradetaintelerlsineslittenrsiis
+ertaedisanitarirenaestiritesiiealest
+tinosesiresiaalllattiondrateiliaas

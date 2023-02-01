@@ -1,0 +1,16 @@
+Score: 5268.89 IOC: 0.3054 Multiplicity: 0.0517 Minutes: 1.69
+Repeats: eeneelelee teetekee eeeleee eeenele etetnee eeneele
+PC-cycles: 1235
+
+L-route(284*2,TP,C:3)
+Diagonal(462*2,UTP,C:4)
+Offset column order(424*2,X:197)
+
+etkttmzeyenekewetneleteenyeweredetewnkyteenesnetesyeetntkezenezeelel
+eesenketekelneelketeeseeltekelelneeyeeneeeneleneteetekeeeenmeeneelek
+neeteekteteeneeleleenteetekeelnmeezeeenenekeemeeleetklnelmeeererzeml
+eneeeeleeeleeeneleleezereeretetetneelkmeeneeteeereelteeeelnekzeeeree
+eseekeesneknmleeteeltekntetetteltelekeenttnnteeelesmkeeeeneeeekeente
+teezenemeelentleteneelkeeeleteeseretetneenekertkentweenetteesekentee
+teekenwtletkesenteeeeenkeeezemeneelnekedetnkelelteneeleeneeleleelete
+nekeeen

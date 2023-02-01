@@ -1,0 +1,11 @@
+Score: 10349.43 IOC: 0.3302 Multiplicity: 0.1235 Seconds: 51.86
+Repeats: aaaaaaa aapaaaa aanaata vaaaaa aaaaak asava anaa
+PC-cycles: 78
+
+Period(1) Nulls(14,40,96,140,168)
+
+erizaijaprijetlalviraaavaananaslaaaa
+akaaaavaapaaaactadainaarnaanaatalaaa
+paaaazvaaaaaanaaravrsaakraalantsaasa
+vaaaaakonpaanaatanaaklataaaaaaaapasa
+aanikasavasaasarpraaainataaaaraaas

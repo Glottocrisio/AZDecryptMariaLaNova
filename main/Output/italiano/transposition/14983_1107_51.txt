@@ -1,0 +1,16 @@
+Score: 14983.26 IOC: 0.1107 Multiplicity: 0.0517 Seconds: 0.96
+Repeats: iltro aelia reai asso aeae iier nine ilre agen iael
+PC-cycles: 8540
+
+Spiral(479*2,UTP,OUT,C:1B)
+L-route(401*2,UTP,C:6)
+Snake(56*9)
+
+ecretiasercalediorticaadiartstrediioedcitrdgtziiercidiglanataitradac
+ielodiaitedagasecadirteooiositeostorcicroniierialnireainoteaililtroc
+lassoacarleiiltroerriassolelienetocoraenoiaeniaoltrirecoarencieianla
+losicredaraelianineilelariessereilaiieannoeorintniacarealeilreaeliaa
+erzainiteoinelrgaagenineaalltoilirorelnelcaraiaelraentesiiololeoista
+ressneegatenzailreotelerginaeaeinrarlooicieteignagenarialorcaicorica
+eaedalcilaretieeiidiaelisareaitieaaereaiesnneelenerleaiodileinleaaii
+aneacac

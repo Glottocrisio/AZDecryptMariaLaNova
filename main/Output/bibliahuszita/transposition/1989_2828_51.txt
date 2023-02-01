@@ -1,0 +1,16 @@
+Score: 1989.58 IOC: 0.2828 Multiplicity: 0.0517 Seconds: 5.99
+Repeats: tteketetet tetettetet toteteete etetette teetttet
+PC-cycles: 359
+
+Reverse
+Offset(X:300)
+Split(422*2,H,1,Diagonal(UTP,C:2A),Flip)
+
+eeleteeettktoeetttteettttmentteetonkteteereertetetteoeekteteketeetol
+eeetetoteteetettkesotketreertnentltksetteetteneetretenekteeteketeert
+tezetteeztetttokeletolkttleneneeeltoettetnnttetetotztttetetteetttetl
+eleteetttetoetnetektetettetetneeztrltetetttkeretetlatotteneezeteteee
+ltetotaneelttzetentlnteeeeteteaeltteketetetaeremtleattensotsztenszes
+eltltsetttettetekezettensteottteteleszeeelsteoteteteseteteteoetenekl
+otetektttetesottettetnetetetteketetettetettoteteetelteoeeoeetttlente
+sltette

@@ -1,0 +1,12 @@
+Score: 12387904.90 IOC: 0.0348 Multiplicity: 0.1202 Seconds: 0.07
+Repeats: ag du gs wo ul uw or mz yx oj qb xo ku lt dg 
+PC-cycles: 80
+
+Vigenère keyword (by columns): adsxcp
+
+nikzqshtnddunumyqbdujeqmdgpuwjodqjao
+sglplhrorexoltofnmhbkuwgxyhhieywoyav
+lmzpsmcozoworbvpwtyojxajyxjnqbyymxag
+agbptmzblvilotvencigvswfubmjqgyxojwh
+jgspqcmulhccdgsjtprindybfkkulxltrjzg
+lcs
